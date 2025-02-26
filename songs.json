@@ -1,0 +1,22 @@
+[
+    {
+      "type": "folder",
+      "name": "Favorites",
+      "expanded": true,
+      "songs": [
+        { "type": "song", "name": "Song A", "url": "songs/songA.mp3" },
+        { "type": "song", "name": "Song B", "url": "songs/songB.mp3" }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Chill",
+      "expanded": false,
+      "songs": [
+        { "type": "song", "name": "Song C", "url": "songs/songC.mp3" },
+        { "type": "song", "name": "Song D", "url": "songs/songD.mp3" }
+      ]
+    },
+    { "type": "song", "name": "Single Track", "url": "songs/single.mp3" }
+  ]
+  
